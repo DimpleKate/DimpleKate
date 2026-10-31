@@ -1,16 +1,124 @@
-## Hi there 👋
+<!-- HEADER -->
+<div align="center">
 
-<!--
-**DimpleKate/DimpleKate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ic3I2MDgweDc1d2E5NWpvcWt1OG5rcGRiNTdwZ2pla2dubDNlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif"/>
 
-Here are some ideas to get you started:
+<h1><span style="color:#4da3ff;">Hi 👋 I am a passionate developer</span></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size:30px; color:#00bfff; margin-top:5px;">Dimple Kate</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=1000&color=4DA3FF&center=true&vCenter=true&width=420&lines=Dream+it.+Code+it.+Live+it." />
+
+<br>
+
+
+</div>
+
+---
+
+<!-- 🔹 INFO PANEL -->
+<div align="center">
+
+<div style="display:inline-block; padding:20px 30px; border-radius:15px; background: linear-gradient(135deg, #4da3ff, #000000); color:white; max-width:650px; box-shadow: 0 0 20px rgba(0,0,0,0.5); font-family:'Segoe UI', sans-serif; text-align:center;">
+
+<p style="font-size:18px;">📧 <b>Email:</b> kbbersalona@gmail.com</p>
+<p style="font-size:18px;">💻 <b>Skills:</b> C#, WinForms, HTML, CSS, JS</p>
+<p style="font-size:18px;">🎓 <b>Education:</b> 3rd-year Bachelor’s student in Information Technology</p>
+
+</div>
+</div>
+
+---
+
+# 🔥 <span style="color:#4da3ff;">Activity Overview</span>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dimplekate&theme=github-dark&hide_border=true&area=true&line=00bfff&point=1e90ff&custom_title=Developer%20Activity%20Graph" width="95%">
+
+</div>
+
+---
+
+# 📊 <span style="color:#4da3ff;">GitHub Dashboard</span>
+<div align="center">
+
+### 🔹 <span style="color:#4da3ff;">Streak Stats</span>
+<img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=dimplekate&theme=react&border_radius=10&fire=00bfff&currStreakLabel=00bfff&sideLabels=00bfff&dates=00bfff">
+
+### 🔹 <span style="color:#4da3ff;">Profile Stats</span>
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=dimplekate&show_icons=true&theme=react&border_radius=10&icon_color=00bfff&title_color=00bfff" />
+
+<br><br>
+
+### 🔹 <span style="color:#4da3ff;">Top Languages</span>
+<img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dimplekate&layout=compact&theme=react&border_radius=10" />
+
+</div>
+
+---
+
+### 🔹 <span style="color:#4da3ff;">Connect With Me</span>
+<div align="center">
+
+<div style="display:inline-block; padding:15px 25px; border:2px solid #4da3ff; border-radius:20px; background: linear-gradient(135deg, #000000, #1a1a1a); box-shadow:0 0 15px rgba(0,0,0,0.5);">
+
+<a href="https://m.me/dimplecutieee" target="_blank">
+<img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg" height="50" style="border-radius:50%; margin:5px;">
+</a>
+
+<a href="https://www.instagram.com/ddimpxs" target="_blank">
+<img src="https://img.icons8.com/color/96/instagram-new.png" height="48" style="margin:5px;">
+</a>
+
+<a href="https://www.tiktok.com/@dimcovers" target="_blank">
+<img src="https://img.icons8.com/color/96/tiktok.png" height="48" style="margin:5px;">
+</a>
+
+<a href="https://discord.com/users/dimplekate13" target="_blank">
+<img src="https://img.icons8.com/color/96/discord.png" height="48" style="margin:5px;">
+</a>
+
+</div>
+</div>
+
+---
+
+# 🚀 <span style="color:#4da3ff;">Featured Projects</span>
+
+- 🎓 **Student Management System** — Organized handling of students, grades, and classes  
+- 🛒 **Online Ordering System** — Inventory, checkout, and order flow  
+- 🖥️ **C# WinForms Applications** — Desktop-based system solutions  
+
+---
+
+# 🎸 <span style="color:#4da3ff;">Talents & Hobbies</span>
+<div align="center">
+
+<table>
+<tr>
+<th style="color:#4da3ff;">🎤 Singing</th>
+<th style="color:#4da3ff;">🎨 Drawing</th>
+<th style="color:#4da3ff;">🎸 Instruments</th>
+</tr>
+<tr>
+<td>Voice expression & emotion</td>
+<td>Sketch & digital creativity</td>
+<td>Guitar, Flute & Harmonica</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/48/b7/03/48b703e0aefa2a6e0e732a5c7a900f10.gif" width="180"><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1200&color=4DA3FF&center=true&vCenter=true&width=380&lines=Ideas+into+Reality." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dimplekate&style=flat-square&color=00bfff">
+
+</div>
